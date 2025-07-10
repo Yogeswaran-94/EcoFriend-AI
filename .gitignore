@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# Streamlit log files
+app/eco_log.txt
+
+# Model files (optional, if too big)
+*.gguf
+*.bin
+
+# VSCode
+.vscode/

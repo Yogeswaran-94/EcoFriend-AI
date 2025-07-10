@@ -1,0 +1,6 @@
+streamlit
+langdetect
+deep-translator
+transformers
+sentence-transformers
+faiss-cpu
